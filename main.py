@@ -17,7 +17,7 @@ audio_file = 'input.webm'
 call_py.play(
     -1001952511944,
     MediaStream(
-        'test.png',
+        'test.jpg',
         audio_path=audio_file,
         video_parameters=VideoQuality.HD_720p,
     ),
